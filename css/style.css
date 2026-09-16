@@ -402,6 +402,11 @@ h1::after {
         gap: 12px;
     }
 }
+.edit-input {
+    font-family: inherit;
+    color: var(--text);
+    background: #fff;
+}
 
 @media (prefers-reduced-motion: reduce) {
     * {
